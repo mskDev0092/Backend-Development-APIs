@@ -27,10 +27,10 @@ Complete projects from **freeCodeCamp** and learned microservices. It was challe
 
 
 ## 3. URL Shortener Microservice:
-![screenshot]()
-- Live Site URL:
-- Repository URL:
-- Solution URL:
+![screenshot](https://github.com/mskDev0092/URL-Shortener-Microservice/blob/main/Screenshot%202023-09-24%20at%2017-54-33%20URL%20Shortener%20Microservice%20freeCodeCamp.org.png)
+- Live Site URL: [https://url-shortener-microservice.mskdev0092.repl.co/](https://url-shortener-microservice.mskdev0092.repl.co/)
+- Repository URL: [https://github.com/mskDev0092/URL-Shortener-Microservice](https://github.com/mskDev0092/URL-Shortener-Microservice)
+- Solution URL: [https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice)
 
 
 ## 4. Exercise Tracker: 
