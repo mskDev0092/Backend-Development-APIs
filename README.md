@@ -41,8 +41,8 @@ Complete projects from **freeCodeCamp** and learned microservices. It was challe
 
 
 ## 5. File Metadata Microservice:
-![screenshot]()
-- Live Site URL: []()
+![screenshot](https://github.com/mskDev0092/File-Metadata-Microservice/blob/main/Screenshot%202023-10-02%20at%2008-53-34%20File%20Metadata.png)
+- Live Site URL: [https://file-metadata-microservice.mskdev0092.repl.co/](https://file-metadata-microservice.mskdev0092.repl.co/)
 - Repository URL: [https://github.com/mskDev0092/File-Metadata-Microservice](https://github.com/mskDev0092/File-Metadata-Microservice)
 - Solution URL: [https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice)
 
