@@ -34,17 +34,17 @@ Complete projects from **freeCodeCamp** and learned microservices. It was challe
 
 
 ## 4. Exercise Tracker: 
-![screenshot]()
-- Live Site URL:
-- Repository URL:
-- Solution URL:
+![screenshot](https://github.com/mskDev0092/Exercise-Tracker-App/blob/main/Screenshot%202023-10-01%20at%2011-20-40%20Exercise%20Tracker%20freeCodeCamp.png)
+- Live Site URL: [https://exercise-tracker-app.mskdev0092.repl.co/](https://exercise-tracker-app.mskdev0092.repl.co/)
+- Repository URL: [https://github.com/mskDev0092/Exercise-Tracker-App](https://github.com/mskDev0092/Exercise-Tracker-App)
+- Solution URL: [https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/exercise-tracker](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/exercise-tracker)
 
 
 ## 5. File Metadata Microservice:
 ![screenshot]()
-- Live Site URL:
-- Repository URL:
-- Solution URL:
+- Live Site URL: []()
+- Repository URL: [https://github.com/mskDev0092/File-Metadata-Microservice](https://github.com/mskDev0092/File-Metadata-Microservice)
+- Solution URL: [https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice)
 
 
 
